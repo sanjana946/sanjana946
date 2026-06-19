@@ -6,11 +6,10 @@
     <td width="50%" valign="top">
       <h3>About Me:</h3>
       <ul>
-        <li>🎓 <b>Education:</b> B.E. Computer Science Graduate</li>
-        <li>📊 <b>Role:</b> Aspiring Data Analyst passionate about data storytelling</li>
-        <li>💡 <b>Skills:</b> Skilled in SQL, Power BI, Excel, and Python</li>
-        <li>🚀 <b>Current Focus:</b> Building real-world analytical projects</li>
-        <li>🌱 <b>Mindset:</b> Always learning, exploring, and growing</li>
+        <li>🎓 <b>Education:</b> Computer Science Undergraduate Student</li>
+        <li>💻 <b>Learning:</b> Exploring software development and data concepts</li>
+        <li>🚀 <b>Current Focus:</b> Building my foundational skills and college projects</li>
+        <li>🌱 <b>Mindset:</b> Always learning, practicing, and growing</li>
       </ul>
       
       <h3>Connect with me:</h3>
@@ -22,15 +21,10 @@
     
     <!-- Right Column: Tech Stack & Stats -->
     <td width="50%" valign="top">
-      <h3>Tech Stack:</h3>
+      <h3>Core Tech Stack:</h3>
       <p>
-        <img src="https://shields.io" alt="Python" />
-        <img src="https://shields.io" alt="MySQL" />
-        <img src="https://shields.io" alt="Power BI" />
-        <img src="https://shields.io" alt="Excel" />
-        <img src="https://shields.io" alt="Canva" />
-        <img src="https://shields.io" alt="Pandas" />
-        <img src="https://shields.io" alt="NumPy" />
+        <img src="https://shields.io" alt="HTML5" />
+        <img src="https://shields.io" alt="CSS3" />
       </p>
       
       <h3>GitHub Stats:</h3>
@@ -38,3 +32,4 @@
     </td>
   </tr>
 </table>
+
