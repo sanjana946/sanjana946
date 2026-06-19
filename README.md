@@ -5,13 +5,9 @@
 * **Current Focus:** Building my foundational skills and college projects
 * **Mindset:** Always learning, practicing, and growing
 ### 💻 Core Tech Stack
-![HTML5](https://shields.io) 
-![CSS3](https://shields.io)
+![HTML5](https://shields.io) ![CSS3](https://shields.io)
 ### 🤝 Connect with me
-[![LinkedIn](https://shields.io)](https://linkedin.com) 
-[![Email](https://shields.io)](mailto:your.email@example.com)
-### 📊 GitHub Stats
-![Sanjana's GitHub Stats](https://vercel.app)
+![LinkedIn](https://shields.io) ![Email](https://shields.io)
 
       
       
