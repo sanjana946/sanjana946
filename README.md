@@ -8,8 +8,9 @@
 * **Programming Languages:** Python, Java
 * **Databases:** SQL
 * ### 🤝 Connect with me
-* 💼 **LinkedIn:** [Click here to visit my LinkedIn](https://linkedin.com)
-* 📧 **Email:** [Send me an Email](mailto:your.email@example.com)
+* 💼 **LinkedIn:** [Click here to visit my LinkedIn](www.linkedin.com/in/
+sanjana-b-8362b9358)
+* 📧 **Email:** [Send me an Email](mailto:sanjana.81254@gmail.com)
 
 
       
