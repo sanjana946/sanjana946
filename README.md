@@ -1,6 +1,6 @@
 # Hi there, I'm Sanjana! 👋
 ### 🎓 About Me
-* 🏫 **Education:** Computer Science Undergraduate Student 
+* 🏫 **Education:** Computer Science & Engineering Undergraduate Student 
 * 💻 **Learning:** Exploring software development and data concepts
 * 🚀 **Current Focus:** Building my foundational skills and college projects
 * 🌟 **Mindset:** Always learning, practicing, and growing
